@@ -1,0 +1,27 @@
+{
+  "name": "module1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "psuedoCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devcab2/lighthouse-week-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devcab2/lighthouse-week-1/issues"
+  },
+  "homepage": "https://github.com/Devcab2/lighthouse-week-1#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
