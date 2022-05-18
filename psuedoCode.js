@@ -1,4 +1,4 @@
-/*Writing in psuedo code to understand the problems.
+/* Writing in psuedo code to understand the problems.
 loop from 100 to 200:
   let num = the current step in the loop
   If num % 3 is equal to 0 and num % 4 is equal to 0;
@@ -16,14 +16,12 @@ this allows to understand logically what we need to do the rest is formatting th
 
 for (let num = 100; num <= 200; num++) {
   if (num % 3 === 0 && num % 4 === 0) {
-    console.log("LoopyLighthouse");
+    console.log('LoopyLighthouse')
   } else if (num % 3 === 0) {
-    console.log("Loopy");
+    console.log('Loopy')
   } else if (num % 4 === 0) {
-    console.log("Lighthouse");
+    console.log('Lighthouse')
   } else {
-    console.log(num);
+    console.log(num)
   }
 }
-
-
